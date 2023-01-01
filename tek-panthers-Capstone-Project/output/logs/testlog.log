@@ -1,0 +1,423 @@
+2022-10-31 20:22:37,658 - logger_file -INFO - React App is equal to React App
+2022-10-31 20:22:37,711 - logger_file -INFO - logo is present
+2022-10-31 20:28:18,696 - logger_file -INFO - React App is equal to React App
+2022-10-31 20:28:18,772 - logger_file -INFO - logo is present
+2022-10-31 21:23:35,255 - logger_file -INFO - React App is equal to React App
+2022-10-31 21:42:06,988 - logger_file -INFO - React App is equal to React App
+2022-10-31 21:42:07,098 - logger_file -INFO - Electronics was selected from the drop down
+2022-10-31 21:42:07,237 - logger_file -INFO - user entered PlayStation
+2022-10-31 21:42:07,318 - logger_file -INFO - user clicked on search button
+2022-10-31 21:42:07,422 - logger_file -INFO - item is present
+2022-11-07 16:10:46,466 - logger_File -INFO - React Appis equal to React App
+2022-11-07 16:21:35,599 - logger_File -INFO - React Appis equal to React App
+2022-11-07 16:21:35,641 - logger_File -INFO - logo is present
+2022-12-30 16:58:54,824 - logger_File -INFO - React Appis equal to React App
+2022-12-30 17:26:32,206 - logger_File -INFO - React Appis equal to React App
+2022-12-30 17:26:32,537 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 17:26:32,928 - logger_File -INFO - User enterd the email and password
+2022-12-30 17:26:36,095 - logger_File -INFO - User clicked on log in btn
+2022-12-30 17:26:39,100 - logger_File -INFO - User should be login into his account
+2022-12-30 17:33:02,314 - logger_File -INFO - React Appis equal to React App
+2022-12-30 17:33:02,613 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 17:33:44,041 - logger_File -INFO - React Appis equal to React App
+2022-12-30 17:33:44,312 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 18:17:20,660 - logger_File -INFO - React Appis equal to React App
+2022-12-30 18:17:21,035 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 18:17:21,234 - logger_File -INFO - User should create new account
+2022-12-30 18:19:03,917 - logger_File -INFO - React Appis equal to React App
+2022-12-30 18:19:04,194 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 18:19:04,399 - logger_File -INFO - User should create new account
+2022-12-30 18:20:52,654 - logger_File -INFO - React Appis equal to React App
+2022-12-30 18:20:52,951 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 18:20:53,160 - logger_File -INFO - User should create new account
+2022-12-30 18:20:53,923 - logger_File -INFO - user should follow the signup instruction
+2022-12-30 18:20:54,048 - logger_File -INFO - user may now enter the info
+2022-12-30 18:20:54,050 - logger_File -INFO - user should be able to see the acc now
+2022-12-30 19:46:30,358 - logger_File -INFO - React Appis equal to React App
+2022-12-30 19:46:30,821 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 19:46:31,281 - logger_File -INFO - User enterd the email and password
+2022-12-30 19:46:34,420 - logger_File -INFO - User clicked on log in btn
+2022-12-30 19:46:37,431 - logger_File -INFO - User should be login into his account
+2022-12-30 20:12:11,940 - logger_File -INFO - React Appis equal to React App
+2022-12-30 20:12:12,168 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 20:12:12,497 - logger_File -INFO - User enterd the email and password
+2022-12-30 20:12:15,625 - logger_File -INFO - User clicked on log in btn
+2022-12-30 20:12:18,640 - logger_File -INFO - User should be login into his account
+2022-12-30 20:12:21,922 - logger_File -INFO - user should see the option
+2022-12-30 20:12:22,375 - logger_File -INFO - user is now able to update personal info
+2022-12-30 20:12:22,525 - logger_File -INFO - user profile is now updated
+2022-12-30 20:12:22,527 - logger_File -INFO - user should now see the updated profile
+2022-12-30 20:15:37,870 - logger_File -INFO - React Appis equal to React App
+2022-12-30 20:15:38,025 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 20:15:38,378 - logger_File -INFO - User enterd the email and password
+2022-12-30 20:15:41,527 - logger_File -INFO - User clicked on log in btn
+2022-12-30 20:15:44,541 - logger_File -INFO - User should be login into his account
+2022-12-30 20:15:47,759 - logger_File -INFO - user should see the option
+2022-12-30 20:15:48,212 - logger_File -INFO - user is now able to update personal info
+2022-12-30 20:15:51,375 - logger_File -INFO - user profile is now updated
+2022-12-30 20:15:51,381 - logger_File -INFO - user should now see the updated profile
+2022-12-30 20:20:47,727 - logger_File -INFO - React Appis equal to React App
+2022-12-30 20:20:48,225 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 20:20:48,557 - logger_File -INFO - User enterd the email and password
+2022-12-30 20:20:51,689 - logger_File -INFO - User clicked on log in btn
+2022-12-30 20:20:54,703 - logger_File -INFO - User should be login into his account
+2022-12-30 20:20:57,974 - logger_File -INFO - user should see the option
+2022-12-30 20:44:21,226 - logger_File -INFO - React Appis equal to React App
+2022-12-30 20:44:21,441 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 20:44:21,823 - logger_File -INFO - User enterd the email and password
+2022-12-30 20:44:24,980 - logger_File -INFO - User clicked on log in btn
+2022-12-30 20:44:27,992 - logger_File -INFO - User should be login into his account
+2022-12-30 20:44:31,243 - logger_File -INFO - user should see the option
+2022-12-30 20:49:12,519 - logger_File -INFO - React Appis equal to React App
+2022-12-30 20:49:12,684 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 20:49:13,081 - logger_File -INFO - User enterd the email and password
+2022-12-30 20:49:16,225 - logger_File -INFO - User clicked on log in btn
+2022-12-30 20:49:19,233 - logger_File -INFO - User should be login into his account
+2022-12-30 20:49:22,502 - logger_File -INFO - user should see the option
+2022-12-30 20:49:23,088 - logger_File -INFO - user should see the updated password
+2022-12-30 20:49:23,249 - logger_File -INFO - user can now change the password
+2022-12-30 21:00:40,209 - logger_File -INFO - React Appis equal to React App
+2022-12-30 21:00:40,423 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 21:00:40,753 - logger_File -INFO - User enterd the email and password
+2022-12-30 21:00:43,896 - logger_File -INFO - User clicked on log in btn
+2022-12-30 21:00:46,902 - logger_File -INFO - User should be login into his account
+2022-12-30 21:01:12,688 - logger_File -INFO - React Appis equal to React App
+2022-12-30 21:01:12,862 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 21:01:13,246 - logger_File -INFO - User enterd the email and password
+2022-12-30 21:01:16,369 - logger_File -INFO - User clicked on log in btn
+2022-12-30 21:01:19,382 - logger_File -INFO - User should be login into his account
+2022-12-30 21:01:22,622 - logger_File -INFO - user should see the option
+2022-12-30 21:01:23,189 - logger_File -INFO - user should see the updated password
+2022-12-30 21:01:23,359 - logger_File -INFO - user can now change the password
+2022-12-30 21:01:26,420 - logger_File -INFO -  password updated message displayed
+2022-12-30 21:05:38,338 - logger_File -INFO - React Appis equal to React App
+2022-12-30 21:05:38,612 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 21:05:38,993 - logger_File -INFO - User enterd the email and password
+2022-12-30 21:05:42,132 - logger_File -INFO - User clicked on log in btn
+2022-12-30 21:05:45,143 - logger_File -INFO - User should be login into his account
+2022-12-30 21:05:48,363 - logger_File -INFO - user should see the option
+2022-12-30 21:39:36,179 - logger_File -INFO - React Appis equal to React App
+2022-12-30 21:39:36,352 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 21:39:36,723 - logger_File -INFO - User enterd the email and password
+2022-12-30 21:39:39,874 - logger_File -INFO - User clicked on log in btn
+2022-12-30 21:39:42,893 - logger_File -INFO - User should be login into his account
+2022-12-30 21:39:46,158 - logger_File -INFO - user should see the option
+2022-12-30 21:39:47,075 - logger_File -INFO - user card is now added
+2022-12-30 21:39:47,241 - logger_File -INFO - user may now enter card info
+2022-12-30 21:42:22,862 - logger_File -INFO - React Appis equal to React App
+2022-12-30 21:42:23,054 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 21:42:23,391 - logger_File -INFO - User enterd the email and password
+2022-12-30 21:42:26,519 - logger_File -INFO - User clicked on log in btn
+2022-12-30 21:42:29,529 - logger_File -INFO - User should be login into his account
+2022-12-30 21:42:32,837 - logger_File -INFO - user should see the option
+2022-12-30 21:42:33,685 - logger_File -INFO - user card is now added
+2022-12-30 21:42:33,861 - logger_File -INFO - user may now enter card info
+2022-12-30 21:53:02,552 - logger_File -INFO - React Appis equal to React App
+2022-12-30 21:53:02,717 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 21:53:03,054 - logger_File -INFO - User enterd the email and password
+2022-12-30 21:53:05,182 - logger_File -INFO - User clicked on log in btn
+2022-12-30 21:53:07,198 - logger_File -INFO - User should be login into his account
+2022-12-30 21:53:09,439 - logger_File -INFO - user should see the option
+2022-12-30 21:53:10,259 - logger_File -INFO - user card is now added
+2022-12-30 21:53:10,413 - logger_File -INFO - user may now enter card info
+2022-12-30 21:53:40,330 - logger_File -INFO - React Appis equal to React App
+2022-12-30 21:53:40,506 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 21:53:40,807 - logger_File -INFO - User enterd the email and password
+2022-12-30 21:53:42,926 - logger_File -INFO - User clicked on log in btn
+2022-12-30 21:53:44,931 - logger_File -INFO - User should be login into his account
+2022-12-30 21:53:47,157 - logger_File -INFO - user should see the option
+2022-12-30 21:53:48,005 - logger_File -INFO - user card is now added
+2022-12-30 21:53:48,170 - logger_File -INFO - user may now enter card info
+2022-12-30 21:53:50,244 - logger_File -INFO -  password updated message displayed
+2022-12-30 21:58:41,078 - logger_File -INFO - React Appis equal to React App
+2022-12-30 21:58:41,308 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 21:58:41,689 - logger_File -INFO - User enterd the email and password
+2022-12-30 21:58:43,816 - logger_File -INFO - User clicked on log in btn
+2022-12-30 21:58:45,823 - logger_File -INFO - User should be login into his account
+2022-12-30 21:58:48,082 - logger_File -INFO - user should see the option
+2022-12-30 22:09:32,430 - logger_File -INFO - React Appis equal to React App
+2022-12-30 22:09:32,622 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 22:09:32,945 - logger_File -INFO - User enterd the email and password
+2022-12-30 22:09:35,085 - logger_File -INFO - User clicked on log in btn
+2022-12-30 22:09:37,097 - logger_File -INFO - User should be login into his account
+2022-12-30 22:09:39,380 - logger_File -INFO - user should see the option
+2022-12-30 22:13:54,823 - logger_File -INFO - React Appis equal to React App
+2022-12-30 22:13:54,966 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 22:13:55,364 - logger_File -INFO - User enterd the email and password
+2022-12-30 22:13:57,470 - logger_File -INFO - User clicked on log in btn
+2022-12-30 22:13:59,487 - logger_File -INFO - User should be login into his account
+2022-12-30 22:14:01,717 - logger_File -INFO - user should see the option
+2022-12-30 22:14:01,871 - logger_File -INFO - user can add/remove card
+2022-12-30 22:14:02,062 - logger_File -INFO - user card is now removed
+2022-12-30 22:19:12,828 - logger_File -INFO - React Appis equal to React App
+2022-12-30 22:19:13,172 - logger_File -INFO - User clicked on sign in btn
+2022-12-30 22:19:13,488 - logger_File -INFO - User enterd the email and password
+2022-12-30 22:19:15,609 - logger_File -INFO - User clicked on log in btn
+2022-12-30 22:19:17,612 - logger_File -INFO - User should be login into his account
+2022-12-30 22:19:19,822 - logger_File -INFO - user should see the option
+2022-12-31 00:22:10,002 - logger_File -INFO - React Appis equal to React App
+2022-12-31 00:22:10,320 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 00:22:10,746 - logger_File -INFO - User enterd the email and password
+2022-12-31 00:22:12,842 - logger_File -INFO - User clicked on log in btn
+2022-12-31 00:22:14,855 - logger_File -INFO - User should be login into his account
+2022-12-31 00:22:17,011 - logger_File -INFO - user should see the option
+2022-12-31 00:22:17,161 - logger_File -INFO - user may now able to add address
+2022-12-31 00:23:51,590 - logger_File -INFO - React Appis equal to React App
+2022-12-31 00:23:51,845 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 00:23:52,251 - logger_File -INFO - User enterd the email and password
+2022-12-31 00:23:54,367 - logger_File -INFO - User clicked on log in btn
+2022-12-31 00:23:56,376 - logger_File -INFO - User should be login into his account
+2022-12-31 00:23:58,544 - logger_File -INFO - user should see the option
+2022-12-31 00:23:58,694 - logger_File -INFO - user may now able to add address
+2022-12-31 00:26:05,235 - logger_File -INFO - React Appis equal to React App
+2022-12-31 00:26:05,437 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 00:26:05,785 - logger_File -INFO - User enterd the email and password
+2022-12-31 00:26:07,881 - logger_File -INFO - User clicked on log in btn
+2022-12-31 00:26:09,884 - logger_File -INFO - User should be login into his account
+2022-12-31 00:26:12,020 - logger_File -INFO - user should see the option
+2022-12-31 00:26:12,144 - logger_File -INFO - user may now able to add address
+2022-12-31 00:29:35,578 - logger_File -INFO - React Appis equal to React App
+2022-12-31 00:29:35,799 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 00:29:36,178 - logger_File -INFO - User enterd the email and password
+2022-12-31 00:29:38,306 - logger_File -INFO - User clicked on log in btn
+2022-12-31 00:29:40,310 - logger_File -INFO - User should be login into his account
+2022-12-31 00:29:42,448 - logger_File -INFO - user should see the option
+2022-12-31 00:29:42,583 - logger_File -INFO - user may now able to add address
+2022-12-31 00:29:43,983 - logger_File -INFO - user address is now added
+2022-12-31 00:29:46,096 - logger_File -INFO - user address is now updated
+2022-12-31 00:31:10,348 - logger_File -INFO - React Appis equal to React App
+2022-12-31 00:31:10,535 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 00:31:10,866 - logger_File -INFO - User enterd the email and password
+2022-12-31 00:31:12,960 - logger_File -INFO - User clicked on log in btn
+2022-12-31 00:31:14,965 - logger_File -INFO - User should be login into his account
+2022-12-31 00:31:17,102 - logger_File -INFO - user should see the option
+2022-12-31 00:31:17,247 - logger_File -INFO - user may now able to add address
+2022-12-31 00:31:18,615 - logger_File -INFO - user address is now added
+2022-12-31 00:31:20,715 - logger_File -INFO - user address is now updated
+2022-12-31 00:31:22,757 - logger_File -INFO -  Address updated message displayed
+2022-12-31 14:44:49,337 - logger_File -INFO - React Appis equal to React App
+2022-12-31 14:44:49,534 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 14:44:49,782 - logger_File -INFO - User enterd the email and password
+2022-12-31 14:44:51,890 - logger_File -INFO - User clicked on log in btn
+2022-12-31 14:44:53,904 - logger_File -INFO - User should be login into his account
+2022-12-31 14:44:56,083 - logger_File -INFO - user should see the option
+2022-12-31 15:19:35,165 - logger_File -INFO - React Appis equal to React App
+2022-12-31 15:19:35,331 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 15:19:35,609 - logger_File -INFO - User enterd the email and password
+2022-12-31 15:19:37,730 - logger_File -INFO - User clicked on log in btn
+2022-12-31 15:19:39,744 - logger_File -INFO - User should be login into his account
+2022-12-31 15:19:41,982 - logger_File -INFO - user should see the option
+2022-12-31 15:19:42,146 - logger_File -INFO - user click on edit address
+2022-12-31 15:19:44,690 - logger_File -INFO - user address is now added
+2022-12-31 15:19:46,862 - logger_File -INFO - user click on update address
+2022-12-31 15:19:46,895 - logger_File -INFO - Address Updated Successfully
+2022-12-31 15:23:00,123 - logger_File -INFO - React Appis equal to React App
+2022-12-31 15:23:00,283 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 15:23:00,514 - logger_File -INFO - User enterd the email and password
+2022-12-31 15:23:02,608 - logger_File -INFO - User clicked on log in btn
+2022-12-31 15:23:04,611 - logger_File -INFO - User should be login into his account
+2022-12-31 15:23:06,859 - logger_File -INFO - user should see the option
+2022-12-31 15:25:13,549 - logger_File -INFO - React Appis equal to React App
+2022-12-31 15:25:13,675 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 15:25:13,923 - logger_File -INFO - User enterd the email and password
+2022-12-31 15:25:16,026 - logger_File -INFO - User clicked on log in btn
+2022-12-31 15:25:18,037 - logger_File -INFO - User should be login into his account
+2022-12-31 15:25:20,262 - logger_File -INFO - user should see the option
+2022-12-31 15:26:37,306 - logger_File -INFO - React Appis equal to React App
+2022-12-31 15:26:37,431 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 15:26:37,654 - logger_File -INFO - User enterd the email and password
+2022-12-31 15:26:39,755 - logger_File -INFO - User clicked on log in btn
+2022-12-31 15:26:41,760 - logger_File -INFO - User should be login into his account
+2022-12-31 15:26:43,959 - logger_File -INFO - user should see the option
+2022-12-31 15:26:44,110 - logger_File -INFO - user may now able to add address
+2022-12-31 15:26:46,724 - logger_File -INFO - user address is now added
+2022-12-31 15:26:48,888 - logger_File -INFO - user address is now updated
+2022-12-31 15:46:55,271 - logger_File -INFO - React Appis equal to React App
+2022-12-31 15:46:55,454 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 15:46:55,711 - logger_File -INFO - User enterd the email and password
+2022-12-31 15:46:57,810 - logger_File -INFO - User clicked on log in btn
+2022-12-31 15:46:59,826 - logger_File -INFO - User should be login into his account
+2022-12-31 15:47:02,053 - logger_File -INFO - user should see the option
+2022-12-31 15:47:02,173 - logger_File -INFO - user address is removed
+2022-12-31 15:47:02,217 - logger_File -INFO - 
+2022-12-31 16:36:07,923 - logger_File -INFO - React Appis equal to React App
+2022-12-31 16:40:22,649 - logger_File -INFO - React Appis equal to React App
+2022-12-31 16:40:34,463 - logger_File -INFO - Electronicsis present
+2022-12-31 16:40:34,520 - logger_File -INFO - Computersis present
+2022-12-31 16:40:34,572 - logger_File -INFO - Smart Homeis present
+2022-12-31 16:40:34,623 - logger_File -INFO - Sportsis present
+2022-12-31 16:40:34,683 - logger_File -INFO - Automativeis present
+2022-12-31 16:41:01,570 - logger_File -INFO - React Appis equal to React App
+2022-12-31 16:41:42,311 - logger_File -INFO - React Appis equal to React App
+2022-12-31 16:41:43,537 - logger_File -INFO - Electronicsis present
+2022-12-31 16:41:43,563 - logger_File -INFO - Computersis present
+2022-12-31 16:41:43,588 - logger_File -INFO - Smart Homeis present
+2022-12-31 16:41:43,616 - logger_File -INFO - Sportsis present
+2022-12-31 16:41:43,639 - logger_File -INFO - Automativeis present
+2022-12-31 16:49:52,950 - logger_File -INFO - React Appis equal to React App
+2022-12-31 16:49:53,060 - logger_File -INFO - user click on all deparments
+2022-12-31 16:49:53,112 - logger_File -INFO - Electronicsis present
+2022-12-31 16:49:53,146 - logger_File -INFO - Computersis present
+2022-12-31 16:49:53,190 - logger_File -INFO - Smart Homeis present
+2022-12-31 16:49:53,228 - logger_File -INFO - Sportsis present
+2022-12-31 16:49:53,275 - logger_File -INFO - Automativeis present
+2022-12-31 17:00:44,626 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:00:44,756 - logger_File -INFO - user click on all deparments
+2022-12-31 17:00:47,079 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:00:47,183 - logger_File -INFO - user click on all deparments
+2022-12-31 17:00:49,004 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:00:49,091 - logger_File -INFO - user click on all deparments
+2022-12-31 17:00:51,254 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:00:51,386 - logger_File -INFO - user click on all deparments
+2022-12-31 17:31:37,633 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:31:37,769 - logger_File -INFO - user click on all deparments
+2022-12-31 17:31:39,709 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:31:39,804 - logger_File -INFO - user click on all deparments
+2022-12-31 17:31:41,698 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:31:41,790 - logger_File -INFO - user click on all deparments
+2022-12-31 17:31:43,659 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:31:43,776 - logger_File -INFO - user click on all deparments
+2022-12-31 17:31:45,481 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:31:45,581 - logger_File -INFO - user click on all deparments
+2022-12-31 17:36:53,658 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:36:53,759 - logger_File -INFO - user click on all deparments
+2022-12-31 17:36:55,488 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:36:55,590 - logger_File -INFO - user click on all deparments
+2022-12-31 17:36:57,396 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:36:57,484 - logger_File -INFO - user click on all deparments
+2022-12-31 17:36:59,257 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:36:59,351 - logger_File -INFO - user click on all deparments
+2022-12-31 17:37:01,337 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:37:01,447 - logger_File -INFO - user click on all deparments
+2022-12-31 17:39:22,784 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:39:22,911 - logger_File -INFO - user click on all deparments
+2022-12-31 17:39:24,724 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:39:24,825 - logger_File -INFO - user click on all deparments
+2022-12-31 17:39:26,548 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:39:26,643 - logger_File -INFO - user click on all deparments
+2022-12-31 17:39:28,785 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:39:28,904 - logger_File -INFO - user click on all deparments
+2022-12-31 17:39:30,930 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:39:31,026 - logger_File -INFO - user click on all deparments
+2022-12-31 17:57:57,550 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:57:57,657 - logger_File -INFO - user click on all deparments
+2022-12-31 17:58:01,111 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:58:01,291 - logger_File -INFO - user click on all deparments
+2022-12-31 17:58:03,824 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:58:03,920 - logger_File -INFO - user click on all deparments
+2022-12-31 17:58:06,739 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:58:06,868 - logger_File -INFO - user click on all deparments
+2022-12-31 17:58:10,325 - logger_File -INFO - React Appis equal to React App
+2022-12-31 17:58:10,465 - logger_File -INFO - user click on all deparments
+2022-12-31 18:12:40,273 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:12:40,438 - logger_File -INFO - user click on all deparments
+2022-12-31 18:12:43,148 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:12:43,267 - logger_File -INFO - user click on all deparments
+2022-12-31 18:12:46,231 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:12:46,341 - logger_File -INFO - user click on all deparments
+2022-12-31 18:12:49,044 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:12:49,154 - logger_File -INFO - user click on all deparments
+2022-12-31 18:12:51,648 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:12:51,818 - logger_File -INFO - user click on all deparments
+2022-12-31 18:16:26,215 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:16:26,342 - logger_File -INFO - user click on all deparments
+2022-12-31 18:16:28,313 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:16:28,418 - logger_File -INFO - user click on all deparments
+2022-12-31 18:16:30,476 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:16:30,612 - logger_File -INFO - user click on all deparments
+2022-12-31 18:16:32,683 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:16:32,805 - logger_File -INFO - user click on all deparments
+2022-12-31 18:16:34,832 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:16:34,967 - logger_File -INFO - user click on all deparments
+2022-12-31 18:18:14,796 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:18:14,912 - logger_File -INFO - user click on all deparments
+2022-12-31 18:18:17,031 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:18:17,161 - logger_File -INFO - user click on all deparments
+2022-12-31 18:18:19,420 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:18:19,525 - logger_File -INFO - user click on all deparments
+2022-12-31 18:18:21,895 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:18:22,056 - logger_File -INFO - user click on all deparments
+2022-12-31 18:18:24,396 - logger_File -INFO - React Appis equal to React App
+2022-12-31 18:18:24,544 - logger_File -INFO - user click on all deparments
+2022-12-31 19:27:45,022 - logger_File -INFO - React Appis equal to React App
+2022-12-31 19:27:45,174 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 19:27:45,601 - logger_File -INFO - User enterd the email and password
+2022-12-31 19:27:47,707 - logger_File -INFO - User clicked on log in btn
+2022-12-31 19:27:49,715 - logger_File -INFO - User should be login into his account
+2022-12-31 20:07:52,330 - logger_File -INFO - User should be login into his account
+2022-12-31 20:07:56,604 - logger_File -INFO - user click on search button
+2022-12-31 20:22:44,844 - logger_File -INFO - User should be login into his account
+2022-12-31 20:22:46,980 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-31 20:38:48,161 - logger_File -INFO - User should be login into his account
+2022-12-31 20:38:50,312 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-31 20:41:05,905 - logger_File -INFO - User should be login into his account
+2022-12-31 20:41:08,051 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-31 20:44:03,910 - logger_File -INFO - User should be login into his account
+2022-12-31 20:48:19,760 - logger_File -INFO - User should be login into his account
+2022-12-31 20:49:28,844 - logger_File -INFO - User should be login into his account
+2022-12-31 20:49:30,994 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-31 21:03:35,092 - logger_File -INFO - User should be login into his account
+2022-12-31 21:03:37,265 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-31 21:09:58,198 - logger_File -INFO - User should be login into his account
+2022-12-31 21:10:00,396 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-31 21:10:02,577 - logger_File -INFO - user entered kasa outdoor smart plug
+2022-12-31 21:10:02,669 - logger_File -INFO - user clicked on search button
+2022-12-31 21:10:03,053 - logger_File -INFO - User should click on the item
+2022-12-31 21:19:26,541 - logger_File -INFO - User should be login into his account
+2022-12-31 21:19:28,715 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-31 21:19:30,882 - logger_File -INFO - user entered kasa outdoor smart plug
+2022-12-31 21:19:30,989 - logger_File -INFO - user clicked on search button
+2022-12-31 21:19:31,242 - logger_File -INFO - User should click on the item
+2022-12-31 22:12:09,588 - logger_File -INFO - User should be login into his account
+2022-12-31 22:14:39,964 - logger_File -INFO - User should be login into his account
+2022-12-31 22:14:42,133 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-31 23:13:17,723 - logger_File -INFO - React Appis equal to React App
+2022-12-31 23:13:17,854 - logger_File -INFO - user click on all deparments
+2022-12-31 23:13:19,858 - logger_File -INFO - React Appis equal to React App
+2022-12-31 23:13:19,976 - logger_File -INFO - user click on all deparments
+2022-12-31 23:13:20,113 - logger_File -INFO - Accessories is presnt
+2022-12-31 23:13:20,165 - logger_File -INFO - Networking is presnt
+2022-12-31 23:13:21,928 - logger_File -INFO - React Appis equal to React App
+2022-12-31 23:13:22,025 - logger_File -INFO - user click on all deparments
+2022-12-31 23:13:22,184 - logger_File -INFO - Smart Home Lightning is presnt
+2022-12-31 23:13:22,260 - logger_File -INFO - Plugs and Outlets is presnt
+2022-12-31 23:13:24,181 - logger_File -INFO - React Appis equal to React App
+2022-12-31 23:13:24,280 - logger_File -INFO - user click on all deparments
+2022-12-31 23:13:24,441 - logger_File -INFO - Athletic Clothing is presnt
+2022-12-31 23:13:24,532 - logger_File -INFO - Exercise & Fitness is presnt
+2022-12-31 23:13:26,110 - logger_File -INFO - React Appis equal to React App
+2022-12-31 23:13:26,203 - logger_File -INFO - user click on all deparments
+2022-12-31 23:15:07,371 - logger_File -INFO - React Appis equal to React App
+2022-12-31 23:15:07,523 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 23:15:07,760 - logger_File -INFO - User enterd the email and password
+2022-12-31 23:15:09,874 - logger_File -INFO - User clicked on log in btn
+2022-12-31 23:15:11,880 - logger_File -INFO - User should be login into his account
+2022-12-31 23:15:14,040 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-31 23:17:39,357 - logger_File -INFO - React Appis equal to React App
+2022-12-31 23:17:39,496 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 23:17:39,748 - logger_File -INFO - User enterd the email and password
+2022-12-31 23:17:41,840 - logger_File -INFO - User clicked on log in btn
+2022-12-31 23:17:43,848 - logger_File -INFO - User should be login into his account
+2022-12-31 23:17:45,988 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-31 23:19:27,849 - logger_File -INFO - React Appis equal to React App
+2022-12-31 23:19:27,998 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 23:19:28,238 - logger_File -INFO - User enterd the email and password
+2022-12-31 23:19:30,350 - logger_File -INFO - User clicked on log in btn
+2022-12-31 23:19:32,353 - logger_File -INFO - User should be login into his account
+2022-12-31 23:19:34,518 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-31 23:26:41,137 - logger_File -INFO - React Appis equal to React App
+2022-12-31 23:26:41,279 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 23:26:41,507 - logger_File -INFO - User enterd the email and password
+2022-12-31 23:26:43,604 - logger_File -INFO - User clicked on log in btn
+2022-12-31 23:26:45,619 - logger_File -INFO - User should be login into his account
+2022-12-31 23:26:47,753 - logger_File -INFO - Smart Home was selected from the drop down
+2022-12-31 23:28:24,164 - logger_File -INFO - React Appis equal to React App
+2022-12-31 23:28:24,309 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 23:28:24,539 - logger_File -INFO - User enterd the email and password
+2022-12-31 23:28:26,631 - logger_File -INFO - User clicked on log in btn
+2022-12-31 23:28:28,643 - logger_File -INFO - User should be login into his account
+2022-12-31 23:36:14,941 - logger_File -INFO - React Appis equal to React App
+2022-12-31 23:36:15,061 - logger_File -INFO - User clicked on sign in btn
+2022-12-31 23:36:15,306 - logger_File -INFO - User enterd the email and password
+2022-12-31 23:36:17,402 - logger_File -INFO - User clicked on log in btn
+2022-12-31 23:36:19,405 - logger_File -INFO - User should be login into his account
