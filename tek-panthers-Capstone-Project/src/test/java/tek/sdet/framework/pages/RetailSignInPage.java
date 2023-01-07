@@ -133,37 +133,13 @@ public class RetailSignInPage extends BaseSetup {
 		@FindBy( xpath= "//button[text()='Remove']")
 		public  WebElement addressremoved;
 		
-		@FindBy( xpath= "//span[text()='All']")
-		public  WebElement allDepartments;
-		
-		@FindBy( xpath= "//div[@class='sidebar_content-item']/span")
-		public List<WebElement> sideBar;
-		
-		@FindBy(id="searchBtn")
-		public  WebElement searchBtn;
-		
-		@FindBy(id="searchInput")
-		public  WebElement searchInput;
-		
-
-		@FindBy( xpath= "//select//option[text()='Smart Home']")
-		public  WebElement smartHome;
 		
 		
-		@FindBy( xpath= "//p[text()='Kasa Outdoor Smart Plug']")
-		public  WebElement KasaOutDoorSmartPlug;
 		
-		@FindBy( xpath= "//select[@class+'Product__select']")
-		public  WebElement quantityselection;
+		//span[text()='Add to Cart']
 		
-		@FindBy( xpath= "//span[text()='Add to Cart']")
-		public  WebElement addToCartButton;
 		
-		@FindBy(id="cartQuantity")
-		public  WebElement cartQuantity;
 		
-		@FindBy(id="search")
-		public  WebElement search;	
 		
 		
 		

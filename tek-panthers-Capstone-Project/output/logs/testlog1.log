@@ -421,3 +421,316 @@
 2022-12-31 23:36:15,306 [main] INFO logger_File - User enterd the email and password
 2022-12-31 23:36:17,402 [main] INFO logger_File - User clicked on log in btn
 2022-12-31 23:36:19,405 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:06:49,876 [main] INFO logger_File - React Appis equal to React App
+2023-01-05 20:06:50,141 [main] INFO logger_File - User clicked on sign in btn
+2023-01-05 20:06:50,576 [main] INFO logger_File - User enterd the email and password
+2023-01-05 20:06:52,711 [main] INFO logger_File - User clicked on log in btn
+2023-01-05 20:06:54,726 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:08:40,728 [main] INFO logger_File - React Appis equal to React App
+2023-01-05 20:08:40,858 [main] INFO logger_File - User clicked on sign in btn
+2023-01-05 20:08:41,137 [main] INFO logger_File - User enterd the email and password
+2023-01-05 20:08:43,255 [main] INFO logger_File - User clicked on log in btn
+2023-01-05 20:08:45,259 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:12:46,840 [main] INFO logger_File - React Appis equal to React App
+2023-01-05 20:12:46,986 [main] INFO logger_File - User clicked on sign in btn
+2023-01-05 20:12:47,296 [main] INFO logger_File - User enterd the email and password
+2023-01-05 20:12:49,437 [main] INFO logger_File - User clicked on log in btn
+2023-01-05 20:12:51,448 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:17:18,735 [main] INFO logger_File - React Appis equal to React App
+2023-01-05 20:17:18,889 [main] INFO logger_File - User clicked on sign in btn
+2023-01-05 20:17:19,209 [main] INFO logger_File - User enterd the email and password
+2023-01-05 20:17:21,335 [main] INFO logger_File - User clicked on log in btn
+2023-01-05 20:17:23,352 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:17:25,466 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 20:22:11,665 [main] INFO logger_File - React Appis equal to React App
+2023-01-05 20:22:11,790 [main] INFO logger_File - User clicked on sign in btn
+2023-01-05 20:22:12,074 [main] INFO logger_File - User enterd the email and password
+2023-01-05 20:22:14,207 [main] INFO logger_File - User clicked on log in btn
+2023-01-05 20:22:16,221 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:22:18,348 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 20:24:08,946 [main] INFO logger_File - React Appis equal to React App
+2023-01-05 20:24:09,105 [main] INFO logger_File - User clicked on sign in btn
+2023-01-05 20:24:09,405 [main] INFO logger_File - User enterd the email and password
+2023-01-05 20:24:11,530 [main] INFO logger_File - User clicked on log in btn
+2023-01-05 20:24:13,532 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:24:15,675 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 20:29:17,220 [main] INFO logger_File - React Appis equal to React App
+2023-01-05 20:29:17,347 [main] INFO logger_File - User clicked on sign in btn
+2023-01-05 20:29:17,671 [main] INFO logger_File - User enterd the email and password
+2023-01-05 20:29:19,809 [main] INFO logger_File - User clicked on log in btn
+2023-01-05 20:29:21,815 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:29:23,958 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 20:35:19,165 [main] INFO logger_File - React Appis equal to React App
+2023-01-05 20:35:19,310 [main] INFO logger_File - User clicked on sign in btn
+2023-01-05 20:35:19,649 [main] INFO logger_File - User enterd the email and password
+2023-01-05 20:35:21,794 [main] INFO logger_File - User clicked on log in btn
+2023-01-05 20:35:23,807 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:35:25,935 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 20:39:18,288 [main] INFO logger_File - React Appis equal to React App
+2023-01-05 20:39:18,432 [main] INFO logger_File - User clicked on sign in btn
+2023-01-05 20:39:18,786 [main] INFO logger_File - User enterd the email and password
+2023-01-05 20:39:20,934 [main] INFO logger_File - User clicked on log in btn
+2023-01-05 20:39:22,939 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:39:25,075 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 20:39:27,176 [main] INFO logger_File - User should click on the item
+2023-01-05 20:39:29,315 [main] INFO logger_File - user click on search button
+2023-01-05 20:48:21,208 [main] INFO logger_File - React Appis equal to React App
+2023-01-05 20:48:21,351 [main] INFO logger_File - User clicked on sign in btn
+2023-01-05 20:48:21,688 [main] INFO logger_File - User enterd the email and password
+2023-01-05 20:48:23,800 [main] INFO logger_File - User clicked on log in btn
+2023-01-05 20:48:25,815 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:48:27,957 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 20:48:30,065 [main] INFO logger_File - User should click on the item
+2023-01-05 20:48:32,199 [main] INFO logger_File - user click on search button
+2023-01-05 20:55:03,395 [main] INFO logger_File - React Appis equal to React App
+2023-01-05 20:55:03,522 [main] INFO logger_File - User clicked on sign in btn
+2023-01-05 20:55:03,820 [main] INFO logger_File - User enterd the email and password
+2023-01-05 20:55:05,932 [main] INFO logger_File - User clicked on log in btn
+2023-01-05 20:55:07,944 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:55:10,082 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 20:55:12,241 [main] INFO logger_File - User should click on the itemkasa outdoor smart plug
+2023-01-05 20:55:14,376 [main] INFO logger_File - user click on search button
+2023-01-05 20:55:16,503 [main] INFO logger_File - user clicked on item
+2023-01-05 20:55:16,721 [main] INFO logger_File - user selected quantity
+2023-01-05 20:55:16,871 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 20:55:16,989 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 20:57:49,466 [main] INFO logger_File - React Appis equal to React App
+2023-01-05 20:57:49,621 [main] INFO logger_File - User clicked on sign in btn
+2023-01-05 20:57:49,971 [main] INFO logger_File - User enterd the email and password
+2023-01-05 20:57:52,123 [main] INFO logger_File - User clicked on log in btn
+2023-01-05 20:57:54,140 [main] INFO logger_File - User should be login into his account
+2023-01-05 20:57:56,266 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 20:57:58,465 [main] INFO logger_File - User should click on the item
+2023-01-05 20:58:00,605 [main] INFO logger_File - user click on search button
+2023-01-05 20:58:02,739 [main] INFO logger_File - user clicked on item
+2023-01-05 20:58:02,990 [main] INFO logger_File - user selected quantity
+2023-01-05 20:58:03,107 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 20:58:03,162 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 21:13:38,410 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 21:13:40,616 [main] INFO logger_File - User should click on the item
+2023-01-05 21:13:42,742 [main] INFO logger_File - user click on search button
+2023-01-05 21:13:44,900 [main] INFO logger_File - user clicked on item
+2023-01-05 21:13:45,077 [main] INFO logger_File - user selected quantity
+2023-01-05 21:13:45,230 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 21:14:41,517 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 21:14:43,706 [main] INFO logger_File - User should click on the item
+2023-01-05 21:14:45,854 [main] INFO logger_File - user click on search button
+2023-01-05 21:14:48,019 [main] INFO logger_File - user clicked on item
+2023-01-05 21:14:48,208 [main] INFO logger_File - user selected quantity
+2023-01-05 21:14:48,393 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 21:19:47,074 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 21:19:49,371 [main] INFO logger_File - User should click on the item
+2023-01-05 21:19:51,519 [main] INFO logger_File - user click on search button
+2023-01-05 21:19:53,668 [main] INFO logger_File - user clicked on item
+2023-01-05 21:19:53,869 [main] INFO logger_File - user selected quantity
+2023-01-05 21:19:54,057 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 21:19:54,108 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 21:57:03,948 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 21:57:06,147 [main] INFO logger_File - User should click on the item
+2023-01-05 21:57:08,298 [main] INFO logger_File - user click on search button
+2023-01-05 21:57:10,468 [main] INFO logger_File - user clicked on item
+2023-01-05 21:57:10,652 [main] INFO logger_File - user selected quantity
+2023-01-05 21:57:10,864 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 21:57:10,912 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 21:57:11,068 [main] INFO logger_File - user click on cart button
+2023-01-05 22:01:04,477 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:01:06,675 [main] INFO logger_File - User should click on the item
+2023-01-05 22:01:08,803 [main] INFO logger_File - user click on search button
+2023-01-05 22:01:10,962 [main] INFO logger_File - user clicked on item
+2023-01-05 22:01:11,152 [main] INFO logger_File - user selected quantity
+2023-01-05 22:01:11,276 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:01:11,317 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:01:11,430 [main] INFO logger_File - user click on cart button
+2023-01-05 22:04:27,695 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:04:29,905 [main] INFO logger_File - User should click on the item
+2023-01-05 22:04:32,021 [main] INFO logger_File - user click on search button
+2023-01-05 22:04:34,164 [main] INFO logger_File - user clicked on item
+2023-01-05 22:04:34,323 [main] INFO logger_File - user selected quantity
+2023-01-05 22:04:34,481 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:04:34,513 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:04:34,626 [main] INFO logger_File - user click on cart button
+2023-01-05 22:05:35,497 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:05:37,670 [main] INFO logger_File - User should click on the item
+2023-01-05 22:05:39,805 [main] INFO logger_File - user click on search button
+2023-01-05 22:05:41,981 [main] INFO logger_File - user clicked on item
+2023-01-05 22:05:42,199 [main] INFO logger_File - user selected quantity
+2023-01-05 22:05:42,349 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:05:42,400 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:05:42,520 [main] INFO logger_File - user click on cart button
+2023-01-05 22:07:54,580 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:07:56,765 [main] INFO logger_File - User should click on the item
+2023-01-05 22:07:58,887 [main] INFO logger_File - user click on search button
+2023-01-05 22:08:01,066 [main] INFO logger_File - user clicked on item
+2023-01-05 22:08:01,254 [main] INFO logger_File - user selected quantity
+2023-01-05 22:08:01,430 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:08:01,480 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:08:03,718 [main] INFO logger_File - user click on cart button
+2023-01-05 22:10:03,502 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:10:05,698 [main] INFO logger_File - User should click on the item
+2023-01-05 22:10:07,831 [main] INFO logger_File - user click on search button
+2023-01-05 22:10:09,973 [main] INFO logger_File - user clicked on item
+2023-01-05 22:10:10,160 [main] INFO logger_File - user selected quantity
+2023-01-05 22:10:10,314 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:10:10,360 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:10:12,687 [main] INFO logger_File - user click on cart button
+2023-01-05 22:12:06,131 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:12:10,325 [main] INFO logger_File - User should click on the item
+2023-01-05 22:12:14,451 [main] INFO logger_File - user click on search button
+2023-01-05 22:12:18,623 [main] INFO logger_File - user clicked on item
+2023-01-05 22:12:18,827 [main] INFO logger_File - user selected quantity
+2023-01-05 22:12:18,967 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:12:18,999 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:12:23,320 [main] INFO logger_File - user click on cart button
+2023-01-05 22:13:20,275 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:13:24,513 [main] INFO logger_File - User should click on the item
+2023-01-05 22:13:28,679 [main] INFO logger_File - user click on search button
+2023-01-05 22:13:32,825 [main] INFO logger_File - user clicked on item
+2023-01-05 22:13:33,027 [main] INFO logger_File - user selected quantity
+2023-01-05 22:13:33,208 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:14:14,558 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:14:18,774 [main] INFO logger_File - User should click on the item
+2023-01-05 22:14:22,928 [main] INFO logger_File - user click on search button
+2023-01-05 22:14:27,102 [main] INFO logger_File - user clicked on item
+2023-01-05 22:14:27,282 [main] INFO logger_File - user selected quantity
+2023-01-05 22:14:27,434 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:14:27,488 [main] INFO logger_File - the cart icon quantity changed to 3
+2023-01-05 22:14:31,837 [main] INFO logger_File - user click on cart button
+2023-01-05 22:16:00,494 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:16:04,694 [main] INFO logger_File - User should click on the item
+2023-01-05 22:16:08,817 [main] INFO logger_File - user click on search button
+2023-01-05 22:17:03,941 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:17:08,170 [main] INFO logger_File - User should click on the item
+2023-01-05 22:17:12,362 [main] INFO logger_File - user click on search button
+2023-01-05 22:18:07,297 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-05 22:18:11,515 [main] INFO logger_File - User should click on the item
+2023-01-05 22:18:15,670 [main] INFO logger_File - user click on search button
+2023-01-05 22:18:19,799 [main] INFO logger_File - user clicked on item
+2023-01-05 22:18:19,973 [main] INFO logger_File - user selected quantity
+2023-01-05 22:18:20,091 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:18:20,132 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:18:24,418 [main] INFO logger_File - user click on cart button
+2023-01-05 22:21:48,576 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:21:52,790 [main] INFO logger_File - User should click on the item
+2023-01-05 22:21:56,921 [main] INFO logger_File - user click on search button
+2023-01-05 22:22:01,074 [main] INFO logger_File - user clicked on item
+2023-01-05 22:22:01,266 [main] INFO logger_File - user selected quantity
+2023-01-05 22:22:01,419 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:22:01,456 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:22:05,757 [main] INFO logger_File - user click on cart button
+2023-01-05 22:29:57,294 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:30:01,481 [main] INFO logger_File - User should click on the item
+2023-01-05 22:30:05,629 [main] INFO logger_File - user click on search button
+2023-01-05 22:30:09,775 [main] INFO logger_File - user clicked on item
+2023-01-05 22:30:09,985 [main] INFO logger_File - user selected quantity
+2023-01-05 22:30:10,151 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:30:10,191 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:30:14,477 [main] INFO logger_File - user click on cart button
+2023-01-05 22:41:08,101 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:41:12,311 [main] INFO logger_File - User should click on the item
+2023-01-05 22:41:16,472 [main] INFO logger_File - user click on search button
+2023-01-05 22:41:20,618 [main] INFO logger_File - user clicked on item
+2023-01-05 22:41:20,839 [main] INFO logger_File - user selected quantity
+2023-01-05 22:41:21,051 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:41:21,095 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:41:25,368 [main] INFO logger_File - user click on cart button
+2023-01-05 22:43:45,102 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:43:49,314 [main] INFO logger_File - User should click on the item
+2023-01-05 22:43:53,460 [main] INFO logger_File - user click on search button
+2023-01-05 22:43:57,611 [main] INFO logger_File - user clicked on item
+2023-01-05 22:43:57,788 [main] INFO logger_File - user selected quantity
+2023-01-05 22:43:57,935 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:43:57,977 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:46:29,649 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:46:33,860 [main] INFO logger_File - User should click on the item
+2023-01-05 22:46:38,019 [main] INFO logger_File - user click on search button
+2023-01-05 22:46:42,186 [main] INFO logger_File - user clicked on item
+2023-01-05 22:46:42,365 [main] INFO logger_File - user selected quantity
+2023-01-05 22:46:42,514 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:46:42,562 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:46:42,669 [main] INFO logger_File - user click on cart button
+2023-01-05 22:58:18,382 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:58:22,593 [main] INFO logger_File - User should click on the item
+2023-01-05 22:58:26,726 [main] INFO logger_File - user click on search button
+2023-01-05 22:58:30,862 [main] INFO logger_File - user clicked on item
+2023-01-05 22:58:31,063 [main] INFO logger_File - user selected quantity
+2023-01-05 22:58:31,208 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 22:58:31,249 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 22:58:31,349 [main] INFO logger_File - user click on cart button
+2023-01-05 22:59:50,393 [main] INFO logger_File - Smart Home was selected from the drop down
+2023-01-05 22:59:54,606 [main] INFO logger_File - User should click on the item
+2023-01-05 22:59:58,736 [main] INFO logger_File - user click on search button
+2023-01-05 23:00:02,880 [main] INFO logger_File - user clicked on item
+2023-01-05 23:00:03,057 [main] INFO logger_File - user selected quantity
+2023-01-05 23:00:03,190 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 23:00:03,232 [main] INFO logger_File - the cart icon quantity changed to 2
+2023-01-05 23:00:03,362 [main] INFO logger_File - user click on cart button
+2023-01-05 23:06:56,126 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-05 23:07:00,319 [main] INFO logger_File - User should click on the item
+2023-01-05 23:07:04,459 [main] INFO logger_File - user click on search button
+2023-01-05 23:07:08,615 [main] INFO logger_File - user clicked on item
+2023-01-05 23:11:18,251 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-05 23:11:22,464 [main] INFO logger_File - User should click on the item
+2023-01-05 23:11:26,605 [main] INFO logger_File - user click on search button
+2023-01-05 23:11:30,746 [main] INFO logger_File - user clicked on item
+2023-01-05 23:11:30,965 [main] INFO logger_File - user selected quantity
+2023-01-05 23:11:31,141 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 23:12:51,998 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-05 23:12:56,191 [main] INFO logger_File - User should click on the item
+2023-01-05 23:13:00,333 [main] INFO logger_File - user click on search button
+2023-01-05 23:13:04,486 [main] INFO logger_File - user clicked on item
+2023-01-05 23:13:04,728 [main] INFO logger_File - user selected quantity
+2023-01-05 23:13:08,873 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 23:14:01,364 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-05 23:14:05,569 [main] INFO logger_File - User should click on the item
+2023-01-05 23:14:09,729 [main] INFO logger_File - user click on search button
+2023-01-05 23:14:13,889 [main] INFO logger_File - user clicked on item
+2023-01-05 23:14:14,071 [main] INFO logger_File - user selected quantity
+2023-01-05 23:14:18,228 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 23:16:01,916 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-05 23:16:06,117 [main] INFO logger_File - User should click on the item
+2023-01-05 23:16:10,271 [main] INFO logger_File - user click on search button
+2023-01-05 23:16:14,410 [main] INFO logger_File - user clicked on item
+2023-01-05 23:16:14,603 [main] INFO logger_File - user selected quantity
+2023-01-05 23:16:18,768 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 23:16:18,821 [main] INFO logger_File - the cart icon quantity changed to 5
+2023-01-05 23:16:18,966 [main] INFO logger_File - user click on cart button
+2023-01-05 23:18:29,099 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-05 23:18:33,280 [main] INFO logger_File - User should click on the item
+2023-01-05 23:18:37,433 [main] INFO logger_File - user click on search button
+2023-01-05 23:18:41,585 [main] INFO logger_File - user clicked on item
+2023-01-05 23:18:45,812 [main] INFO logger_File - user selected quantity
+2023-01-05 23:18:45,944 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 23:18:45,990 [main] INFO logger_File - the cart icon quantity changed to 5
+2023-01-05 23:18:46,127 [main] INFO logger_File - user click on cart button
+2023-01-05 23:19:57,371 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-05 23:20:01,544 [main] INFO logger_File - User should click on the item
+2023-01-05 23:20:05,669 [main] INFO logger_File - user click on search button
+2023-01-05 23:20:09,817 [main] INFO logger_File - user clicked on item
+2023-01-05 23:20:14,219 [main] INFO logger_File - user selected quantity
+2023-01-05 23:20:14,349 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 23:20:14,382 [main] INFO logger_File - the cart icon quantity changed to 5
+2023-01-05 23:20:14,511 [main] INFO logger_File - user click on cart button
+2023-01-05 23:23:14,193 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-05 23:23:18,371 [main] INFO logger_File - User should click on the item
+2023-01-05 23:23:22,497 [main] INFO logger_File - user click on search button
+2023-01-05 23:23:26,648 [main] INFO logger_File - user clicked on item
+2023-01-05 23:23:31,126 [main] INFO logger_File - user selected quantity
+2023-01-05 23:23:31,279 [main] INFO logger_File - user clicked add to cart button
+2023-01-05 23:23:31,327 [main] INFO logger_File - the cart icon quantity changed to 5
+2023-01-05 23:23:31,473 [main] INFO logger_File - user click on cart button
+2023-01-06 22:38:54,843 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-06 22:38:58,988 [main] INFO logger_File - User should click on the item
+2023-01-06 22:39:03,105 [main] INFO logger_File - user click on search button
+2023-01-06 22:39:07,227 [main] INFO logger_File - user clicked on item
+2023-01-06 22:39:11,559 [main] INFO logger_File - user selected quantity
+2023-01-06 22:39:11,633 [main] INFO logger_File - user clicked add to cart button
+2023-01-06 22:39:11,696 [main] INFO logger_File - the cart icon quantity changed to 5
+2023-01-06 22:39:11,797 [main] INFO logger_File - user click on cart button
+2023-01-06 22:42:40,714 [main] INFO logger_File - Electronics was selected from the drop down
+2023-01-06 22:42:44,874 [main] INFO logger_File - User should click on the item
+2023-01-06 22:42:49,084 [main] INFO logger_File - user click on search button
+2023-01-06 22:42:53,262 [main] INFO logger_File - user clicked on item
+2023-01-06 22:42:57,747 [main] INFO logger_File - user selected quantity
+2023-01-06 22:42:57,891 [main] INFO logger_File - user clicked add to cart button
+2023-01-06 22:42:57,935 [main] INFO logger_File - the cart icon quantity changed to 5
+2023-01-06 22:42:58,066 [main] INFO logger_File - user click on cart button
