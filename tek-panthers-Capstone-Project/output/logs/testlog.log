@@ -734,3 +734,548 @@
 2023-01-06 22:42:57,891 - logger_File -INFO - user clicked add to cart button
 2023-01-06 22:42:57,935 - logger_File -INFO - the cart icon quantity changed to 5
 2023-01-06 22:42:58,066 - logger_File -INFO - user click on cart button
+2023-01-06 22:58:00,953 - logger_File -INFO - Smart Home was selected from the drop down
+2023-01-06 22:58:05,122 - logger_File -INFO - User should click on the item
+2023-01-06 22:58:09,326 - logger_File -INFO - user click on search button
+2023-01-06 22:58:13,546 - logger_File -INFO - user clicked on item
+2023-01-06 22:58:13,781 - logger_File -INFO - user selected quantity
+2023-01-06 22:58:13,943 - logger_File -INFO - user clicked add to cart button
+2023-01-06 22:58:56,335 - logger_File -INFO - Smart Home was selected from the drop down
+2023-01-06 22:59:00,503 - logger_File -INFO - User should click on the item
+2023-01-06 22:59:04,677 - logger_File -INFO - user click on search button
+2023-01-06 22:59:08,866 - logger_File -INFO - user clicked on item
+2023-01-06 22:59:09,051 - logger_File -INFO - user selected quantity
+2023-01-06 22:59:09,258 - logger_File -INFO - user clicked add to cart button
+2023-01-06 23:00:42,795 - logger_File -INFO - Smart Home was selected from the drop down
+2023-01-06 23:00:46,970 - logger_File -INFO - User should click on the item
+2023-01-06 23:00:51,137 - logger_File -INFO - user click on search button
+2023-01-06 23:00:55,286 - logger_File -INFO - user clicked on item
+2023-01-06 23:00:55,491 - logger_File -INFO - user selected quantity
+2023-01-06 23:00:55,647 - logger_File -INFO - user clicked add to cart button
+2023-01-06 23:00:55,692 - logger_File -INFO - the cart icon quantity changed to 2
+2023-01-06 23:00:55,831 - logger_File -INFO - user click on cart button
+2023-01-07 16:55:30,334 - logger_File -INFO - Smart Home was selected from the drop down
+2023-01-07 16:55:34,526 - logger_File -INFO - User should click on the item
+2023-01-07 16:55:38,735 - logger_File -INFO - user click on search button
+2023-01-07 16:55:42,892 - logger_File -INFO - user clicked on item
+2023-01-07 16:55:43,123 - logger_File -INFO - user selected quantity
+2023-01-07 16:55:43,314 - logger_File -INFO - user clicked add to cart button
+2023-01-07 16:56:39,102 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 16:56:43,297 - logger_File -INFO - User should click on the item
+2023-01-07 16:56:47,500 - logger_File -INFO - user click on search button
+2023-01-07 16:56:51,667 - logger_File -INFO - user clicked on item
+2023-01-07 16:56:56,147 - logger_File -INFO - user selected quantity
+2023-01-07 16:56:56,301 - logger_File -INFO - user clicked add to cart button
+2023-01-07 16:56:56,352 - logger_File -INFO - the cart icon quantity changed to 5
+2023-01-07 17:04:11,110 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 17:04:15,332 - logger_File -INFO - User should click on the item
+2023-01-07 17:04:19,541 - logger_File -INFO - user click on search button
+2023-01-07 17:04:23,727 - logger_File -INFO - user clicked on item
+2023-01-07 17:04:28,125 - logger_File -INFO - user selected quantity
+2023-01-07 17:04:28,274 - logger_File -INFO - user clicked add to cart button
+2023-01-07 17:04:28,332 - logger_File -INFO - the cart icon quantity changed to 5
+2023-01-07 17:11:40,132 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 17:11:44,295 - logger_File -INFO - User should click on the item
+2023-01-07 17:11:48,481 - logger_File -INFO - user click on search button
+2023-01-07 17:11:52,703 - logger_File -INFO - user clicked on item
+2023-01-07 17:11:57,171 - logger_File -INFO - user selected quantity
+2023-01-07 17:11:57,308 - logger_File -INFO - user clicked add to cart button
+2023-01-07 17:11:57,383 - logger_File -INFO - the cart icon quantity changed to 5
+2023-01-07 17:24:34,856 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 17:24:39,010 - logger_File -INFO - User should click on the item
+2023-01-07 17:24:43,181 - logger_File -INFO - user click on search button
+2023-01-07 17:24:47,357 - logger_File -INFO - user clicked on item
+2023-01-07 17:24:51,798 - logger_File -INFO - user selected quantity
+2023-01-07 17:24:51,938 - logger_File -INFO - user clicked add to cart button
+2023-01-07 17:24:51,979 - logger_File -INFO - the cart icon quantity changed to 5
+2023-01-07 17:26:02,602 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 17:26:06,763 - logger_File -INFO - User should click on the item
+2023-01-07 17:26:10,952 - logger_File -INFO - user click on search button
+2023-01-07 17:26:15,131 - logger_File -INFO - user clicked on item
+2023-01-07 17:26:19,576 - logger_File -INFO - user selected quantity
+2023-01-07 17:26:19,872 - logger_File -INFO - user clicked add to cart button
+2023-01-07 17:26:19,932 - logger_File -INFO - the cart icon quantity changed to 5
+2023-01-07 17:33:03,449 - logger_File -INFO - React Appis equal to React App
+2023-01-07 17:33:03,589 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 17:33:03,872 - logger_File -INFO - User enterd the email and password
+2023-01-07 17:33:07,993 - logger_File -INFO - User clicked on log in btn
+2023-01-07 17:33:12,000 - logger_File -INFO - User should be login into his account
+2023-01-07 17:33:16,171 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 17:33:20,352 - logger_File -INFO - User should click on the item
+2023-01-07 17:33:24,534 - logger_File -INFO - user click on search button
+2023-01-07 17:33:28,692 - logger_File -INFO - user clicked on item
+2023-01-07 17:33:33,198 - logger_File -INFO - user selected quantity
+2023-01-07 17:39:04,731 - logger_File -INFO - React Appis equal to React App
+2023-01-07 17:39:04,882 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 17:39:05,177 - logger_File -INFO - User enterd the email and password
+2023-01-07 17:39:09,301 - logger_File -INFO - User clicked on log in btn
+2023-01-07 17:39:13,304 - logger_File -INFO - User should be login into his account
+2023-01-07 17:39:17,467 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 17:39:21,658 - logger_File -INFO - User should click on the item
+2023-01-07 17:39:25,825 - logger_File -INFO - user click on search button
+2023-01-07 17:39:29,990 - logger_File -INFO - user clicked on item
+2023-01-07 17:39:34,463 - logger_File -INFO - user selected quantity
+2023-01-07 17:41:06,434 - logger_File -INFO - React Appis equal to React App
+2023-01-07 17:41:06,568 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 17:41:06,843 - logger_File -INFO - User enterd the email and password
+2023-01-07 17:41:10,960 - logger_File -INFO - User clicked on log in btn
+2023-01-07 17:41:14,973 - logger_File -INFO - User should be login into his account
+2023-01-07 17:41:19,134 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 17:41:23,304 - logger_File -INFO - User should click on the item
+2023-01-07 17:41:27,455 - logger_File -INFO - user click on search button
+2023-01-07 17:41:31,621 - logger_File -INFO - user clicked on item
+2023-01-07 17:41:36,136 - logger_File -INFO - user selected quantity
+2023-01-07 17:45:31,966 - logger_File -INFO - React Appis equal to React App
+2023-01-07 17:45:32,111 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 17:45:32,392 - logger_File -INFO - User enterd the email and password
+2023-01-07 17:45:36,527 - logger_File -INFO - User clicked on log in btn
+2023-01-07 17:45:40,542 - logger_File -INFO - User should be login into his account
+2023-01-07 17:45:44,721 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 17:45:48,911 - logger_File -INFO - User should click on the item
+2023-01-07 17:45:53,078 - logger_File -INFO - user click on search button
+2023-01-07 17:45:57,250 - logger_File -INFO - user clicked on item
+2023-01-07 17:46:01,715 - logger_File -INFO - user selected quantity
+2023-01-07 17:49:40,328 - logger_File -INFO - React Appis equal to React App
+2023-01-07 17:49:40,443 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 17:49:40,719 - logger_File -INFO - User enterd the email and password
+2023-01-07 17:49:44,845 - logger_File -INFO - User clicked on log in btn
+2023-01-07 17:49:48,849 - logger_File -INFO - User should be login into his account
+2023-01-07 17:49:53,002 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 17:49:57,187 - logger_File -INFO - User should click on the item
+2023-01-07 17:50:01,375 - logger_File -INFO - user click on search button
+2023-01-07 17:50:05,522 - logger_File -INFO - user clicked on item
+2023-01-07 17:50:10,010 - logger_File -INFO - user selected quantity
+2023-01-07 17:54:02,185 - logger_File -INFO - React Appis equal to React App
+2023-01-07 17:54:02,316 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 17:54:02,584 - logger_File -INFO - User enterd the email and password
+2023-01-07 17:54:06,706 - logger_File -INFO - User clicked on log in btn
+2023-01-07 17:54:10,718 - logger_File -INFO - User should be login into his account
+2023-01-07 17:54:14,854 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 17:54:19,018 - logger_File -INFO - User should click on the item
+2023-01-07 17:54:23,187 - logger_File -INFO - user click on search button
+2023-01-07 17:54:27,354 - logger_File -INFO - user clicked on item
+2023-01-07 17:54:31,904 - logger_File -INFO - user selected quantity
+2023-01-07 17:56:31,762 - logger_File -INFO - React Appis equal to React App
+2023-01-07 17:56:31,898 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 17:56:32,195 - logger_File -INFO - User enterd the email and password
+2023-01-07 17:56:36,303 - logger_File -INFO - User clicked on log in btn
+2023-01-07 17:56:40,321 - logger_File -INFO - User should be login into his account
+2023-01-07 17:56:44,488 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 17:56:48,683 - logger_File -INFO - User should click on the item
+2023-01-07 17:56:52,848 - logger_File -INFO - user click on search button
+2023-01-07 17:56:57,004 - logger_File -INFO - user clicked on item
+2023-01-07 17:57:01,566 - logger_File -INFO - user selected quantity
+2023-01-07 17:57:45,768 - logger_File -INFO - React Appis equal to React App
+2023-01-07 17:57:45,899 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 17:57:46,175 - logger_File -INFO - User enterd the email and password
+2023-01-07 17:57:50,307 - logger_File -INFO - User clicked on log in btn
+2023-01-07 17:57:54,322 - logger_File -INFO - User should be login into his account
+2023-01-07 17:57:58,479 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 17:58:02,674 - logger_File -INFO - User should click on the item
+2023-01-07 17:58:06,824 - logger_File -INFO - user click on search button
+2023-01-07 17:58:10,996 - logger_File -INFO - user clicked on item
+2023-01-07 17:58:15,537 - logger_File -INFO - user selected quantity
+2023-01-07 18:03:05,711 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:03:05,998 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:03:06,292 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:03:10,427 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:03:14,434 - logger_File -INFO - User should be login into his account
+2023-01-07 18:03:18,605 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:03:22,818 - logger_File -INFO - User should click on the item
+2023-01-07 18:03:26,988 - logger_File -INFO - user click on search button
+2023-01-07 18:03:31,144 - logger_File -INFO - user clicked on item
+2023-01-07 18:03:35,844 - logger_File -INFO - user selected quantity
+2023-01-07 18:05:41,743 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:05:41,914 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:05:42,220 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:05:46,350 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:05:50,353 - logger_File -INFO - User should be login into his account
+2023-01-07 18:05:54,496 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:05:58,706 - logger_File -INFO - User should click on the item
+2023-01-07 18:06:02,857 - logger_File -INFO - user click on search button
+2023-01-07 18:06:07,012 - logger_File -INFO - user clicked on item
+2023-01-07 18:06:11,471 - logger_File -INFO - user selected quantity
+2023-01-07 18:06:11,608 - logger_File -INFO - user clicked add to cart button
+2023-01-07 18:15:17,971 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:15:18,096 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:15:18,381 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:15:22,511 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:15:26,514 - logger_File -INFO - User should be login into his account
+2023-01-07 18:15:30,664 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:15:34,859 - logger_File -INFO - User should click on the item
+2023-01-07 18:15:39,018 - logger_File -INFO - user click on search button
+2023-01-07 18:15:43,168 - logger_File -INFO - user clicked on item
+2023-01-07 18:15:47,659 - logger_File -INFO - user selected quantity
+2023-01-07 18:15:47,818 - logger_File -INFO - user clicked add to cart button
+2023-01-07 18:18:38,789 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:18:38,922 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:18:39,197 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:18:41,305 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:18:43,312 - logger_File -INFO - User should be login into his account
+2023-01-07 18:18:45,451 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:18:47,651 - logger_File -INFO - User should click on the item
+2023-01-07 18:18:49,816 - logger_File -INFO - user click on search button
+2023-01-07 18:18:51,962 - logger_File -INFO - user clicked on item
+2023-01-07 18:18:54,457 - logger_File -INFO - user selected quantity
+2023-01-07 18:18:54,585 - logger_File -INFO - user clicked add to cart button
+2023-01-07 18:20:13,518 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:20:13,640 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:20:13,904 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:20:16,039 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:20:18,045 - logger_File -INFO - User should be login into his account
+2023-01-07 18:20:20,183 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:20:22,369 - logger_File -INFO - User should click on the item
+2023-01-07 18:20:24,542 - logger_File -INFO - user click on search button
+2023-01-07 18:20:26,698 - logger_File -INFO - user clicked on item
+2023-01-07 18:20:29,159 - logger_File -INFO - user selected quantity
+2023-01-07 18:22:02,408 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:22:02,536 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:22:02,803 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:22:04,917 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:22:06,921 - logger_File -INFO - User should be login into his account
+2023-01-07 18:22:09,064 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:22:11,255 - logger_File -INFO - User should click on the item
+2023-01-07 18:22:13,418 - logger_File -INFO - user click on search button
+2023-01-07 18:22:15,601 - logger_File -INFO - user clicked on item
+2023-01-07 18:22:18,088 - logger_File -INFO - user selected quantity
+2023-01-07 18:23:40,093 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:23:40,213 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:23:40,481 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:23:42,659 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:23:44,666 - logger_File -INFO - User should be login into his account
+2023-01-07 18:23:46,829 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:23:49,016 - logger_File -INFO - User should click on the item
+2023-01-07 18:23:51,180 - logger_File -INFO - user click on search button
+2023-01-07 18:23:53,334 - logger_File -INFO - user clicked on item
+2023-01-07 18:23:55,854 - logger_File -INFO - user selected quantity
+2023-01-07 18:28:09,500 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:28:09,650 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:28:09,945 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:28:12,081 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:28:14,085 - logger_File -INFO - User should be login into his account
+2023-01-07 18:28:16,251 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:28:18,463 - logger_File -INFO - User should click on the item
+2023-01-07 18:28:20,620 - logger_File -INFO - user click on search button
+2023-01-07 18:28:22,785 - logger_File -INFO - user clicked on item
+2023-01-07 18:28:25,312 - logger_File -INFO - user selected quantity
+2023-01-07 18:28:25,454 - logger_File -INFO - user clicked add to cart button
+2023-01-07 18:29:58,294 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:29:58,430 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:29:58,745 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:30:00,919 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:30:02,932 - logger_File -INFO - User should be login into his account
+2023-01-07 18:30:05,084 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:30:07,279 - logger_File -INFO - User should click on the item
+2023-01-07 18:30:09,441 - logger_File -INFO - user click on search button
+2023-01-07 18:30:11,598 - logger_File -INFO - user clicked on item
+2023-01-07 18:30:14,014 - logger_File -INFO - user selected quantity
+2023-01-07 18:33:05,004 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:33:05,143 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:33:05,422 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:33:07,547 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:33:09,557 - logger_File -INFO - User should be login into his account
+2023-01-07 18:33:11,719 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:33:13,917 - logger_File -INFO - User should click on the item
+2023-01-07 18:33:16,074 - logger_File -INFO - user click on search button
+2023-01-07 18:33:18,231 - logger_File -INFO - user clicked on item
+2023-01-07 18:33:20,674 - logger_File -INFO - user selected quantity
+2023-01-07 18:34:50,750 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:34:50,877 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:34:51,158 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:34:53,285 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:34:55,292 - logger_File -INFO - User should be login into his account
+2023-01-07 18:34:57,436 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:34:59,618 - logger_File -INFO - User should click on the item
+2023-01-07 18:35:01,777 - logger_File -INFO - user click on search button
+2023-01-07 18:35:03,941 - logger_File -INFO - user clicked on item
+2023-01-07 18:37:14,087 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:37:14,223 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:37:14,525 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:37:16,695 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:37:18,697 - logger_File -INFO - User should be login into his account
+2023-01-07 18:37:20,835 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:37:23,006 - logger_File -INFO - User should click on the item
+2023-01-07 18:37:25,182 - logger_File -INFO - user click on search button
+2023-01-07 18:37:27,341 - logger_File -INFO - user clicked on item
+2023-01-07 18:37:29,812 - logger_File -INFO - user selected quantity
+2023-01-07 18:38:16,100 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:38:16,235 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:38:16,537 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:38:18,645 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:38:20,656 - logger_File -INFO - User should be login into his account
+2023-01-07 18:38:22,791 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:38:25,004 - logger_File -INFO - User should click on the item
+2023-01-07 18:38:27,165 - logger_File -INFO - user click on search button
+2023-01-07 18:38:29,325 - logger_File -INFO - user clicked on item
+2023-01-07 18:38:31,731 - logger_File -INFO - user selected quantity
+2023-01-07 18:38:31,842 - logger_File -INFO - user clicked add to cart button
+2023-01-07 18:38:35,899 - logger_File -INFO - the cart icon quantity changed to 5
+2023-01-07 18:38:38,118 - logger_File -INFO - user click on cart button
+2023-01-07 18:38:38,317 - logger_File -INFO - user click on proceed button
+2023-01-07 18:48:43,381 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:48:43,530 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:48:43,799 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:48:45,937 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:48:47,944 - logger_File -INFO - User should be login into his account
+2023-01-07 18:48:50,101 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:48:52,298 - logger_File -INFO - User should click on the item
+2023-01-07 18:48:54,460 - logger_File -INFO - user click on search button
+2023-01-07 18:48:56,620 - logger_File -INFO - user clicked on item
+2023-01-07 18:48:59,044 - logger_File -INFO - user selected quantity
+2023-01-07 18:48:59,170 - logger_File -INFO - user clicked add to cart button
+2023-01-07 18:49:03,229 - logger_File -INFO - the cart icon quantity changed to 5
+2023-01-07 18:49:05,438 - logger_File -INFO - user click on cart button
+2023-01-07 18:49:05,674 - logger_File -INFO - user click on proceed button
+2023-01-07 18:54:37,157 - logger_File -INFO - React Appis equal to React App
+2023-01-07 18:54:37,282 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 18:54:37,577 - logger_File -INFO - User enterd the email and password
+2023-01-07 18:54:39,765 - logger_File -INFO - User clicked on log in btn
+2023-01-07 18:54:41,778 - logger_File -INFO - User should be login into his account
+2023-01-07 18:54:43,936 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 18:54:46,123 - logger_File -INFO - User should click on the item
+2023-01-07 18:54:48,296 - logger_File -INFO - user click on search button
+2023-01-07 18:54:50,460 - logger_File -INFO - user clicked on item
+2023-01-07 18:54:52,930 - logger_File -INFO - user selected quantity
+2023-01-07 18:54:53,066 - logger_File -INFO - user clicked add to cart button
+2023-01-07 18:54:57,126 - logger_File -INFO - the cart icon quantity changed to 5
+2023-01-07 18:54:59,360 - logger_File -INFO - user click on cart button
+2023-01-07 18:54:59,610 - logger_File -INFO - user click on proceed button
+2023-01-07 19:00:53,659 - logger_File -INFO - React Appis equal to React App
+2023-01-07 19:00:53,800 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 19:00:54,072 - logger_File -INFO - User enterd the email and password
+2023-01-07 19:00:56,182 - logger_File -INFO - User clicked on log in btn
+2023-01-07 19:00:58,199 - logger_File -INFO - User should be login into his account
+2023-01-07 19:01:00,350 - logger_File -INFO - Smart Home was selected from the drop down
+2023-01-07 19:01:02,568 - logger_File -INFO - User should click on the item
+2023-01-07 19:01:04,743 - logger_File -INFO - user click on search button
+2023-01-07 19:01:06,881 - logger_File -INFO - user clicked on item
+2023-01-07 19:01:07,152 - logger_File -INFO - user selected quantity
+2023-01-07 19:01:07,307 - logger_File -INFO - user clicked add to cart button
+2023-01-07 19:07:22,824 - logger_File -INFO - React Appis equal to React App
+2023-01-07 19:07:22,957 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 19:07:23,254 - logger_File -INFO - User enterd the email and password
+2023-01-07 19:07:25,377 - logger_File -INFO - User clicked on log in btn
+2023-01-07 19:07:27,382 - logger_File -INFO - User should be login into his account
+2023-01-07 19:07:29,529 - logger_File -INFO - Smart Home was selected from the drop down
+2023-01-07 19:07:31,729 - logger_File -INFO - User should click on the item
+2023-01-07 19:07:33,896 - logger_File -INFO - user click on search button
+2023-01-07 19:07:36,064 - logger_File -INFO - user clicked on item
+2023-01-07 19:07:36,286 - logger_File -INFO - user selected quantity
+2023-01-07 19:07:36,480 - logger_File -INFO - user clicked add to cart button
+2023-01-07 19:09:14,788 - logger_File -INFO - React Appis equal to React App
+2023-01-07 19:09:14,915 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 19:09:15,200 - logger_File -INFO - User enterd the email and password
+2023-01-07 19:09:17,319 - logger_File -INFO - User clicked on log in btn
+2023-01-07 19:09:19,327 - logger_File -INFO - User should be login into his account
+2023-01-07 19:09:21,478 - logger_File -INFO - Smart Home was selected from the drop down
+2023-01-07 19:09:23,673 - logger_File -INFO - User should click on the item
+2023-01-07 19:09:25,838 - logger_File -INFO - user click on search button
+2023-01-07 19:09:28,000 - logger_File -INFO - user clicked on item
+2023-01-07 19:09:28,223 - logger_File -INFO - user selected quantity
+2023-01-07 19:09:28,388 - logger_File -INFO - user clicked add to cart button
+2023-01-07 19:09:32,435 - logger_File -INFO - the cart icon quantity changed to 2
+2023-01-07 19:14:07,692 - logger_File -INFO - React Appis equal to React App
+2023-01-07 19:14:07,869 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 19:14:08,335 - logger_File -INFO - User enterd the email and password
+2023-01-07 19:14:10,455 - logger_File -INFO - User clicked on log in btn
+2023-01-07 19:14:12,464 - logger_File -INFO - User should be login into his account
+2023-01-07 19:14:14,614 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 19:14:16,827 - logger_File -INFO - User should click on the item
+2023-01-07 19:14:19,001 - logger_File -INFO - user click on search button
+2023-01-07 19:14:21,169 - logger_File -INFO - user clicked on item
+2023-01-07 19:14:23,813 - logger_File -INFO - user selected quantity
+2023-01-07 19:14:23,944 - logger_File -INFO - user clicked add to cart button
+2023-01-07 19:15:06,445 - logger_File -INFO - React Appis equal to React App
+2023-01-07 19:15:06,615 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 19:15:07,049 - logger_File -INFO - User enterd the email and password
+2023-01-07 19:15:09,188 - logger_File -INFO - User clicked on log in btn
+2023-01-07 19:15:11,192 - logger_File -INFO - User should be login into his account
+2023-01-07 19:15:13,402 - logger_File -INFO - Electronics was selected from the drop down
+2023-01-07 19:15:15,589 - logger_File -INFO - User should click on the item
+2023-01-07 19:15:17,757 - logger_File -INFO - user click on search button
+2023-01-07 19:15:19,926 - logger_File -INFO - user clicked on item
+2023-01-07 19:15:22,494 - logger_File -INFO - user selected quantity
+2023-01-07 19:15:22,641 - logger_File -INFO - user clicked add to cart button
+2023-01-07 19:15:26,703 - logger_File -INFO - the cart icon quantity changed to 5
+2023-01-07 19:15:28,932 - logger_File -INFO - user click on cart button
+2023-01-07 19:15:29,185 - logger_File -INFO - user click on proceed button
+2023-01-07 19:15:31,347 - logger_File -INFO - user click on place order button
+2023-01-07 20:28:31,515 - logger_File -INFO - React Appis equal to React App
+2023-01-07 20:28:31,692 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 20:28:31,935 - logger_File -INFO - User enterd the email and password
+2023-01-07 20:28:34,071 - logger_File -INFO - User clicked on log in btn
+2023-01-07 20:28:36,082 - logger_File -INFO - User should be login into his account
+2023-01-07 20:29:41,409 - logger_File -INFO - React Appis equal to React App
+2023-01-07 20:29:41,601 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 20:29:41,829 - logger_File -INFO - User enterd the email and password
+2023-01-07 20:29:43,949 - logger_File -INFO - User clicked on log in btn
+2023-01-07 20:29:45,964 - logger_File -INFO - User should be login into his account
+2023-01-07 23:32:11,238 - logger_File -INFO - React Appis equal to React App
+2023-01-07 23:32:11,380 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 23:32:11,644 - logger_File -INFO - User enterd the email and password
+2023-01-07 23:32:13,770 - logger_File -INFO - User clicked on log in btn
+2023-01-07 23:32:15,780 - logger_File -INFO - User should be login into his account
+2023-01-07 23:32:17,964 - logger_File -INFO - user clicked on order
+2023-01-07 23:32:18,146 - logger_File -INFO - user selected the  order
+2023-01-07 23:34:18,908 - logger_File -INFO - React Appis equal to React App
+2023-01-07 23:34:19,047 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 23:34:19,276 - logger_File -INFO - User enterd the email and password
+2023-01-07 23:34:21,385 - logger_File -INFO - User clicked on log in btn
+2023-01-07 23:34:23,404 - logger_File -INFO - User should be login into his account
+2023-01-07 23:34:25,634 - logger_File -INFO - user clicked on order
+2023-01-07 23:34:27,790 - logger_File -INFO - user selected the  order
+2023-01-07 23:37:09,425 - logger_File -INFO - React Appis equal to React App
+2023-01-07 23:37:09,573 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 23:37:09,822 - logger_File -INFO - User enterd the email and password
+2023-01-07 23:37:11,932 - logger_File -INFO - User clicked on log in btn
+2023-01-07 23:37:13,935 - logger_File -INFO - User should be login into his account
+2023-01-07 23:37:16,177 - logger_File -INFO - user clicked on order
+2023-01-07 23:45:43,793 - logger_File -INFO - React Appis equal to React App
+2023-01-07 23:45:43,927 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 23:45:44,181 - logger_File -INFO - User enterd the email and password
+2023-01-07 23:45:46,303 - logger_File -INFO - User clicked on log in btn
+2023-01-07 23:45:48,311 - logger_File -INFO - User should be login into his account
+2023-01-07 23:45:50,530 - logger_File -INFO - user clicked on order
+2023-01-07 23:45:52,685 - logger_File -INFO - user selected the  order
+2023-01-07 23:47:26,980 - logger_File -INFO - React Appis equal to React App
+2023-01-07 23:47:27,145 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 23:47:27,419 - logger_File -INFO - User enterd the email and password
+2023-01-07 23:47:29,544 - logger_File -INFO - User clicked on log in btn
+2023-01-07 23:47:31,552 - logger_File -INFO - User should be login into his account
+2023-01-07 23:47:33,743 - logger_File -INFO - user clicked on order
+2023-01-07 23:47:52,719 - logger_File -INFO - user clicked on cancel order
+2023-01-07 23:47:52,922 - logger_File -INFO - user clicked on reason option
+2023-01-07 23:47:53,084 - logger_File -INFO - user clicked on cancel Button
+2023-01-07 23:48:15,637 - logger_File -INFO - React Appis equal to React App
+2023-01-07 23:48:15,763 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 23:48:16,003 - logger_File -INFO - User enterd the email and password
+2023-01-07 23:48:18,178 - logger_File -INFO - User clicked on log in btn
+2023-01-07 23:48:20,193 - logger_File -INFO - User should be login into his account
+2023-01-07 23:48:22,404 - logger_File -INFO - user clicked on order
+2023-01-07 23:49:31,264 - logger_File -INFO - React Appis equal to React App
+2023-01-07 23:49:31,399 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 23:49:31,635 - logger_File -INFO - User enterd the email and password
+2023-01-07 23:49:33,756 - logger_File -INFO - User clicked on log in btn
+2023-01-07 23:49:35,766 - logger_File -INFO - User should be login into his account
+2023-01-07 23:49:37,957 - logger_File -INFO - user clicked on order
+2023-01-07 23:51:36,218 - logger_File -INFO - React Appis equal to React App
+2023-01-07 23:51:36,342 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 23:51:36,588 - logger_File -INFO - User enterd the email and password
+2023-01-07 23:51:38,694 - logger_File -INFO - User clicked on log in btn
+2023-01-07 23:51:40,697 - logger_File -INFO - User should be login into his account
+2023-01-07 23:51:42,957 - logger_File -INFO - user clicked on order
+2023-01-07 23:51:54,870 - logger_File -INFO - user clicked on cancel order
+2023-01-07 23:51:57,070 - logger_File -INFO - user clicked on reason option
+2023-01-07 23:51:57,226 - logger_File -INFO - user clicked on cancel Button
+2023-01-07 23:53:17,751 - logger_File -INFO - React Appis equal to React App
+2023-01-07 23:53:17,890 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 23:53:18,121 - logger_File -INFO - User enterd the email and password
+2023-01-07 23:53:20,215 - logger_File -INFO - User clicked on log in btn
+2023-01-07 23:53:22,231 - logger_File -INFO - User should be login into his account
+2023-01-07 23:53:24,477 - logger_File -INFO - user clicked on order
+2023-01-07 23:53:24,636 - logger_File -INFO - user selected the  order
+2023-01-07 23:56:11,898 - logger_File -INFO - React Appis equal to React App
+2023-01-07 23:56:12,032 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 23:56:12,279 - logger_File -INFO - User enterd the email and password
+2023-01-07 23:56:14,392 - logger_File -INFO - User clicked on log in btn
+2023-01-07 23:56:16,407 - logger_File -INFO - User should be login into his account
+2023-01-07 23:56:18,631 - logger_File -INFO - user clicked on order
+2023-01-07 23:58:23,835 - logger_File -INFO - React Appis equal to React App
+2023-01-07 23:58:23,988 - logger_File -INFO - User clicked on sign in btn
+2023-01-07 23:58:24,236 - logger_File -INFO - User enterd the email and password
+2023-01-07 23:58:26,349 - logger_File -INFO - User clicked on log in btn
+2023-01-07 23:58:28,363 - logger_File -INFO - User should be login into his account
+2023-01-07 23:58:30,602 - logger_File -INFO - user clicked on order
+2023-01-07 23:58:30,760 - logger_File -INFO - user clicked on cancel order
+2023-01-07 23:58:32,964 - logger_File -INFO - user clicked on reason option
+2023-01-07 23:58:33,136 - logger_File -INFO - user clicked on cancel Button
+2023-01-08 00:05:31,789 - logger_File -INFO - React Appis equal to React App
+2023-01-08 00:05:31,939 - logger_File -INFO - User clicked on sign in btn
+2023-01-08 00:05:32,180 - logger_File -INFO - User enterd the email and password
+2023-01-08 00:05:34,288 - logger_File -INFO - User clicked on log in btn
+2023-01-08 00:05:36,301 - logger_File -INFO - User should be login into his account
+2023-01-08 00:05:38,561 - logger_File -INFO - user clicked on order
+2023-01-08 00:05:38,746 - logger_File -INFO - user clicked on cancel order
+2023-01-08 00:05:40,895 - logger_File -INFO - user clicked on reason option
+2023-01-08 00:05:41,070 - logger_File -INFO - user clicked on cancel Button
+2023-01-08 00:06:54,231 - logger_File -INFO - React Appis equal to React App
+2023-01-08 00:06:54,362 - logger_File -INFO - User clicked on sign in btn
+2023-01-08 00:06:54,618 - logger_File -INFO - User enterd the email and password
+2023-01-08 00:06:56,740 - logger_File -INFO - User clicked on log in btn
+2023-01-08 00:06:58,755 - logger_File -INFO - User should be login into his account
+2023-01-08 00:07:01,005 - logger_File -INFO - user clicked on order
+2023-01-08 22:26:53,552 - logger_File -INFO - React Appis equal to React App
+2023-01-08 22:26:53,715 - logger_File -INFO - User clicked on sign in btn
+2023-01-08 22:26:54,053 - logger_File -INFO - User enterd the email and password
+2023-01-08 22:26:56,195 - logger_File -INFO - User clicked on log in btn
+2023-01-08 22:26:58,202 - logger_File -INFO - User should be login into his account
+2023-01-08 22:27:00,465 - logger_File -INFO - user clicked on order
+2023-01-08 22:27:00,654 - logger_File -INFO - user clicked on cancel order
+2023-01-08 22:27:02,804 - logger_File -INFO - user clicked on reason option
+2023-01-08 22:27:02,986 - logger_File -INFO - user clicked on cancel Button
+2023-01-08 22:30:38,733 - logger_File -INFO - React Appis equal to React App
+2023-01-08 22:30:38,898 - logger_File -INFO - User clicked on sign in btn
+2023-01-08 22:30:39,233 - logger_File -INFO - User enterd the email and password
+2023-01-08 22:30:41,396 - logger_File -INFO - User clicked on log in btn
+2023-01-08 22:30:43,404 - logger_File -INFO - User should be login into his account
+2023-01-08 22:57:51,678 - logger_File -INFO - React Appis equal to React App
+2023-01-08 22:57:51,872 - logger_File -INFO - User clicked on sign in btn
+2023-01-08 22:57:52,192 - logger_File -INFO - User enterd the email and password
+2023-01-08 22:57:54,368 - logger_File -INFO - User clicked on log in btn
+2023-01-08 22:57:56,385 - logger_File -INFO - User should be login into his account
+2023-01-08 22:59:05,495 - logger_File -INFO - React Appis equal to React App
+2023-01-08 22:59:05,678 - logger_File -INFO - User clicked on sign in btn
+2023-01-08 22:59:06,011 - logger_File -INFO - User enterd the email and password
+2023-01-08 22:59:08,148 - logger_File -INFO - User clicked on log in btn
+2023-01-08 22:59:10,158 - logger_File -INFO - User should be login into his account
+2023-01-08 22:59:12,422 - logger_File -INFO - user clicked on order
+2023-01-08 23:04:14,103 - logger_File -INFO - React Appis equal to React App
+2023-01-08 23:04:14,277 - logger_File -INFO - User clicked on sign in btn
+2023-01-08 23:04:14,614 - logger_File -INFO - User enterd the email and password
+2023-01-08 23:04:16,739 - logger_File -INFO - User clicked on log in btn
+2023-01-08 23:04:18,751 - logger_File -INFO - User should be login into his account
+2023-01-08 23:04:20,992 - logger_File -INFO - user clicked on order
+2023-01-08 23:07:43,449 - logger_File -INFO - React Appis equal to React App
+2023-01-08 23:07:43,664 - logger_File -INFO - User clicked on sign in btn
+2023-01-08 23:07:44,075 - logger_File -INFO - User enterd the email and password
+2023-01-08 23:07:46,178 - logger_File -INFO - User clicked on log in btn
+2023-01-08 23:07:48,188 - logger_File -INFO - User should be login into his account
+2023-01-08 23:07:50,416 - logger_File -INFO - user clicked on order
+2023-01-08 23:07:50,604 - logger_File -INFO - user clicked on return Button
+2023-01-08 23:07:50,722 - logger_File -INFO - user select on wrong item
+2023-01-08 23:07:50,882 - logger_File -INFO - user select on dropoff
+2023-01-08 23:07:51,058 - logger_File -INFO - user clicked on return item
+2023-01-08 23:10:56,129 - logger_File -INFO - React Appis equal to React App
+2023-01-08 23:10:56,321 - logger_File -INFO - User clicked on sign in btn
+2023-01-08 23:10:56,651 - logger_File -INFO - User enterd the email and password
+2023-01-08 23:10:58,811 - logger_File -INFO - User clicked on log in btn
+2023-01-08 23:11:00,817 - logger_File -INFO - User should be login into his account
+2023-01-08 23:11:03,043 - logger_File -INFO - user clicked on order
+2023-01-08 23:54:25,611 - logger_File -INFO - React Appis equal to React App
+2023-01-08 23:54:25,771 - logger_File -INFO - User clicked on sign in btn
+2023-01-08 23:54:26,173 - logger_File -INFO - User enterd the email and password
+2023-01-08 23:54:28,365 - logger_File -INFO - User clicked on log in btn
+2023-01-08 23:54:30,378 - logger_File -INFO - User should be login into his account
+2023-01-08 23:54:32,647 - logger_File -INFO - user clicked on order
+2023-01-08 23:54:32,838 - logger_File -INFO - user clicked on review item
+2023-01-08 23:54:33,189 - logger_File -INFO - user submited the review
+2023-01-08 23:54:33,358 - logger_File -INFO - user clicked on review submit button
+2023-01-08 23:56:09,151 - logger_File -INFO - React Appis equal to React App
+2023-01-08 23:56:09,285 - logger_File -INFO - User clicked on sign in btn
+2023-01-08 23:56:09,615 - logger_File -INFO - User enterd the email and password
+2023-01-08 23:56:11,764 - logger_File -INFO - User clicked on log in btn
+2023-01-08 23:56:13,779 - logger_File -INFO - User should be login into his account
+2023-01-08 23:56:15,998 - logger_File -INFO - user clicked on order
+2023-01-08 23:56:16,170 - logger_File -INFO - user clicked on review item
+2023-01-08 23:56:16,557 - logger_File -INFO - user submited the review
+2023-01-08 23:56:16,735 - logger_File -INFO - user clicked on review submit button
+2023-01-08 23:58:07,345 - logger_File -INFO - React Appis equal to React App
+2023-01-08 23:58:07,551 - logger_File -INFO - User clicked on sign in btn
+2023-01-08 23:58:07,888 - logger_File -INFO - User enterd the email and password
+2023-01-08 23:58:10,040 - logger_File -INFO - User clicked on log in btn
+2023-01-08 23:58:12,056 - logger_File -INFO - User should be login into his account
+2023-01-08 23:58:14,276 - logger_File -INFO - user clicked on order
+2023-01-08 23:58:14,454 - logger_File -INFO - user clicked on review item
+2023-01-08 23:58:14,813 - logger_File -INFO - user submited the review
+2023-01-08 23:58:14,983 - logger_File -INFO - user clicked on review submit button
+2023-01-08 23:58:17,063 - logger_File -INFO - user review was submited

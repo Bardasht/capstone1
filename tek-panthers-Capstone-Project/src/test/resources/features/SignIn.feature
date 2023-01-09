@@ -1,11 +1,6 @@
 Feature: Sign In Feature
 
-  Background: 
-    Given User is on retail website
-    When User click on Sign in option
-    And User enter email 'jabarkhan@gmail.com' and password 'Jabar@1994'
-    And User click on login button
-    And User should be logged in into Account
+  U
 
   @signIn
   Scenario: Verify user can sign in into Retail Application

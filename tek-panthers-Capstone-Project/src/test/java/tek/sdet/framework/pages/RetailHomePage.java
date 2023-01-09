@@ -52,8 +52,6 @@ public class RetailHomePage extends BaseSetup {
 
 	public WebElement itemkassaoutdoor;
 	
-//	@FindBy(id="addToCartBtn")
-	//public  WebElement addToCartBtn;
 	
 	@FindBy(id="cartBtn")
 	public  WebElement cartBtn;
@@ -77,7 +75,7 @@ public class RetailHomePage extends BaseSetup {
 	
 	@FindBy(id = "addAddressBtn")
 
-	public WebElement addAddressBtn;
+	public WebElement addAddressBtn1;
 
 	 
 
@@ -125,7 +123,7 @@ public class RetailHomePage extends BaseSetup {
 
 	@FindBy(id = "addressBtn")
 
-	public WebElement addressBtn;
+	public WebElement addressBtn2;
 
 	 
 
@@ -175,7 +173,11 @@ public class RetailHomePage extends BaseSetup {
 
 	public WebElement paymentSubmitBtn;
 
-	 
+
+	@FindBy(id = "addToCartBtn")
+
+	public WebElement idAddtoTheCartBtn;
+	
 
 	 
 
@@ -185,5 +187,91 @@ public class RetailHomePage extends BaseSetup {
 	
 	@FindBy( xpath= "//option[text()='5']")
 	public  WebElement quantityselection5;
+	
+
+	@FindBy(id = "orderLink")
+
+	public WebElement orderLink;
+	
+	@FindBy(id = "cancelBtn")
+
+	public WebElement cancelBTN;
+	
+	
+	
+	
+	@FindBy( xpath= "//div[@class='order__cancel-wrapper']")
+	public  WebElement ordercancel;
+	
+	@FindBy( xpath= "//p[@class='order__item-name']")
+	public  WebElement orderselect;
+	
+
+	
+//	@FindBy(id = "reasonInput")
+//	public WebElement reasonInput;
+	
+	
+	
+	//option[text()='Bought wrong item']
+	
+	@FindBy( xpath= "//option[text()='Bought wrong item']")
+	public  WebElement wrongitem;
+	
+	 
+	@FindBy(id = "orderSubmitBtn")
+	public WebElement returnBTN;
+	
+	
+	@FindBy( xpath= "//p[text()='Your Order Has Been Cancelled']")
+	public  WebElement YourOrderHasBeenCancelled;
+	
+	 
+		@FindBy(id = "returnBtn")
+		public WebElement returnBTN1;
+		
+		@FindBy( xpath= "//option[text()='FedEx']")
+		public  WebElement fedex;
+		
+//		@FindBy(id = "orderSubmitBtn")
+//		public WebElement orderreturn;
+		
+		
+		@FindBy( xpath= "//p[text()='Return was successfull']")
+		public  WebElement yourorderhasbeenreturned;
+		
+		@FindBy(id = "reviewBtn")
+		public WebElement reviewitem;
+		
+		@FindBy(id = "headlineInput")
+		public WebElement headlineinput;
+		
+		@FindBy(id = "descriptionInput")
+		public WebElement descriptioninput;
+		
+		@FindBy(id = "reviewSubmitBtn")
+		public WebElement reviewsubmitbtn;
+		
+		@FindBy( xpath= "//div[text()='Your review was added successfully']")
+		public  WebElement Yourreviewwasaddedsuccessfully;
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	 
+	
+	
 
 }

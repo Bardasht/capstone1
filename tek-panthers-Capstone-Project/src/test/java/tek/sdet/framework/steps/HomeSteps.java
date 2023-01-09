@@ -5,7 +5,12 @@ import java.util.Map;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
@@ -106,9 +111,9 @@ public class HomeSteps extends CommonUtility {
 
 	@When("User click add to Cart button")
 	public void userclickAddToCartButton() {
-		click(factory.homePage().addToCartButton);
+		click(factory.homePage().idAddtoTheCartBtn);
 		logger.info("user clicked add to cart button");
-
+		slowDown();
 	}
 
 	@When("User click on Search icon")
@@ -129,16 +134,22 @@ public class HomeSteps extends CommonUtility {
 	@Then("the cart icon quantity should change to {string}")
 	public void theCartIconQuantityShouldChangeTo(String expectedQuantity) {
 		Assert.assertEquals(expectedQuantity, factory.homePage().quantityselection5.getText());
+		slowDown();
+		//click(factory.homePage().addToCartButton);
 		logger.info("the cart icon quantity changed to " + expectedQuantity);
+		slowDown();
 	}
+	
 
 	@Then("User click on Cart option")
 	public void userClickOnCartOption() {
-		waitTillPresence(factory.homePage().addToCartButton);
-		click(factory.homePage().addToCartButton);
+		waitTillPresence(factory.homePage().cartBtn);
+		click(factory.homePage().cartBtn);
 		logger.info("user click on cart button");
-		slowDown();
+		
 	}
+		
+	
 
 	@Then("User click on Proceed to Checkout button")
 	public void userClickOnProceedToCheckoutButton() {
@@ -150,7 +161,8 @@ public class HomeSteps extends CommonUtility {
 
 	@Then("User click Add a new address link for shipping address")
 	public void userClickAddANewAddressLinkForShippingAddress() {
-		click(factory.homePage().addaddressBtn);
+		waitTillPresence(factory.homePage().addAddressBtn1);
+		click(factory.homePage().addAddressBtn1);
 		logger.info("user click on proceed button");
 		slowDown();
 
@@ -223,13 +235,120 @@ public class HomeSteps extends CommonUtility {
 		waitTillPresence(factory.homePage().quantityselection5);
 		click(factory.homePage().quantityselection5);
 		slowDown();
-		waitTillPresence(factory.homePage().cartBtn);
-		click(factory.homePage().cartBtn);
+		waitTillPresence(factory.homePage().idAddtoTheCartBtn);
+		click(factory.homePage().idAddtoTheCartBtn);
 		logger.info("user selected quantity");
 		
+	}
+	@When("User click on Orders section")
+	public void userClickOnOrdersSection() {
+		click(factory.homePage().orderLink);
+		logger.info("user clicked on order");
+		
+	}
+		
+		
+//	}
+//	@When("User click on first order in list")
+//	public void userClickOnFirstOrderInList() {
+//		click(factory.homePage().orderselect);
+//		logger.info("user selected the  order");
+//		
+//		
+//	}
+	@When("User click on Cancel The Order button")
+	public void userClickOnCancelTheOrderButton() {
+		click(factory.homePage().cancelBTN);
+		logger.info("user clicked on cancel order");
+		slowDown();
+		
+		
+	}
+	@When("User select the cancelation Reason ‘Bought wrong item’")
+	public void userSelectTheCancelationReasonBoughtWrongItem() {
+		click(factory.homePage().wrongitem);
+		logger.info("user clicked on reason option");
+		
+	}
+	@When("User click on Cancel Order button")
+	public void userClickOnCancelOrderButton() {
+		click(factory.homePage().ordercancel);
+		logger.info("user clicked on cancel Button");
+		
+		
+	}
+	@Then("a cancelation message should be displayed ‘Your Order Has Been Cancelled’")
+	public void aCancelationMessageShouldBeDisplayedYourOrderHasBeenCancelled() {
+		Assert.assertTrue(isElementDisplayed(factory.homePage().YourOrderHasBeenCancelled));
+		
+		
+	}
+	
+	@When("User click on Return Items button")
+	public void userClickOnReturnItemsButton() {
+		
+		click(factory.homePage().returnBTN1);
+		logger.info("user clicked on return Button");
+		
+	}
+	@When("User select the Return Reason ‘Item damaged’")
+	public void userSelectTheReturnReasonItemDamaged() {
+		click(factory.homePage().wrongitem);
+		logger.info("user select on wrong item");
+		
+	}
+	
+	@When("User select the drop off service ‘FedEx’")
+	public void userSelectTheDropOffServiceFedEx() {
+		click(factory.homePage().fedex);
+		logger.info("user select on dropoff");
+		
+		
+	}
+	@When("User click on Return Order button")
+	public void userClickOnReturnOrderButton() {
+		click(factory.homePage().returnBTN);
+		logger.info("user clicked on return item");
+		
+		
+	}
+	@Then("a cancelation message should be displayed ‘Return was successful’")
+	public void aCancelationMessageShouldBeDisplayedReturnWasSuccessful() {
+		Assert.assertTrue(isElementDisplayed(factory.homePage().yourorderhasbeenreturned));
 		
 		
 		
 	}
-
+	@When("User click on Review button")
+	public void userClickOnReviewButton() {
+		click(factory.homePage().reviewitem);
+		logger.info("user clicked on review item");
+		
+		
+	}
+	@When("User write Review headline {string} and {string}")
+	public void userWriteReviewHeadlineHeadlineValueAndReviewText(String headline,String review) {
+		sendText(factory.homePage().headlineinput, headline);
+		sendText(factory.homePage().descriptioninput,review );
+		logger.info("user submited the review");
+		
+		
+	}
+	
+	@When("User click Add your Review button")
+	public void userClickAddYourReviewButton() {
+		click(factory.homePage().reviewsubmitbtn);
+		logger.info("user clicked on review submit button");
+		slowDown();
+		
+	}
+	
+	@Then("a review message should be displayed ‘Your review was added successfully’")
+	public void aReviewMessageShouldBeDisplayedYourReviewWasAddedSuccessfully() {
+		Assert.assertTrue(isElementDisplayed(factory.homePage().Yourreviewwasaddedsuccessfully));
+		logger.info("user review was submited");
+	}
 }
+		
+	
+
